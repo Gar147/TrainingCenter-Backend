@@ -21,7 +21,7 @@ The API provides:
 
 ##   How to Run the Application
 ### Step 1: Clone the Repository
-git clone https://github.com/yourusername/training-center-api.git
+git clone https://github.com/Gar147/TrainingCenter-Backend
 
 cd training-center-api
 
